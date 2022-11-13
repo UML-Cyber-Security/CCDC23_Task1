@@ -1,2 +1,3 @@
-# CCDC_VPC_Task1
-Task 1: Create a highly available VPC modeled after AWS.
+# CCDC23 UML | Task1: VPC
+
+Task 1 is to create a highly available VPC modeled after AWS.
